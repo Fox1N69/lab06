@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./images/fon.jpg);
+    
+}
+
+.title{
+    position: absolute;
+    left: 31%;
+    top: 10px;
+}
+
+.img1{
+    position: absolute; 
+    left: 31%;
+    top: 15%;
+}
+
+.img2{
+    position: absolute; 
+    left: 40.2%;
+    top: 15%;
+}
+
+.img3{
+  position: absolute;
+  left: 46.7%;
+  top: 15%;
+}
+
+ .img4{
+    position: absolute; 
+    left: 53%;
+    top: 15%;
+}
+
+.img5{
+    position: absolute; 
+    left: 59.2%;
+    top: 15%;
+}
+
+
+.img6{
+    position: absolute; 
+    left: 31%;
+    top: 31.7%;
+}
+
+.img7{
+    position: absolute; 
+    left: 40.2%;
+    top: 31.7%;
+}
+
+.img8{
+    position: absolute; 
+    left: 59.2%;
+    top: 31.7%;
+}
+
+.img9{
+    position: absolute; 
+    left: 31%;
+    top: 43.7%;
+}
+
+.img10{
+    position: absolute; 
+    left: 59.2%;
+    top: 43.7%;
+}
+
+.img11{
+    position: absolute; 
+    left: 31%;
+    top: 55.6%;
+}
+
+.img12{
+    position: absolute; 
+    left: 59.2%;
+    top: 55.6%;
+} 
+
+.img13{
+    position: absolute;
+    left: 31%;
+    top: 68%;
+}
+
+.img14{
+    position: absolute;
+    left: 40.2%;
+    top: 68%;
+}
+
+.img15{
+    position: absolute;
+    left: 46.6%;
+    top: 68%;
+}
+
+.img16{
+    position: absolute;
+    left: 52.8%;
+    top: 68%;
+}
+
+.img17{
+    position: absolute;
+    left: 59.2%;
+    top: 68%;
+}
+
+.img18{
+    position: absolute;
+    left: 31%;
+    top: 85.2%;
+}
